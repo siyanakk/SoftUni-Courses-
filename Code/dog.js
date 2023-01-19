@@ -3,3 +3,8 @@ class dog {
     age;
     eyes;
 }
+class cat {
+    name;
+    age;
+    breed;
+}
