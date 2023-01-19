@@ -8,3 +8,8 @@ class cat {
     age;
     breed;
 }
+class rabbit {
+    name; 
+    age;
+    color;
+}
