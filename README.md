@@ -1,4 +1,4 @@
 # SoftUni-Courses-
-Courses from my education @ SoftUni
+Courses from my education @ SoftUni 😊✌
 
-This repository also contains dogs and cats! Some rabbits too ... !
+This repository also contains dogs and cats! Some rabbits too ...!🐕🐈🐇
